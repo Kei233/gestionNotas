@@ -15,13 +15,14 @@ Para aislar dependencias y gestionar paquetes, creamos un entorno virtual en **P
 ---
 
 ## 🔹 **Resultado del Entorno Virtual**  
-Al activarlo correctamente, deberías ver algo como esto en la terminal:  
+Al activarlo correctamente, este es el resultado final en VScode:
 
 ![Virtual Env Activated](https://github.com/user-attachments/assets/b215730f-4c93-46c0-bbab-f9f68a856e1e)  
 
-✳️ **Para activar el entorno virtual**, usa el siguiente comando en PowerShell:  
+✳️ **Para activar el entorno virtual**, usamos el siguiente comando en PowerShell:  
 ```sh
 gestorNotas\Scripts\activate
+```
 
 
   ![Static Badge](https://img.shields.io/badge/python-3.13.2-grey?style=flat-square&logo=python&logoColor=blue&label=python&labelColor=white&color=grey) ![Static Badge](https://img.shields.io/badge/-black?style=flat-square&logo=git&logoColor=white&label=Git&labelColor=black) ![Static Badge](https://img.shields.io/badge/-black?style=flat-square&logo=github&logoColor=white&label=Github&labelColor=black)
